@@ -1,0 +1,27 @@
+.container{
+    margin-top: 150px;
+text-align: center;
+}
+.btncontainer{
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
+body{
+    background-color:#edf2f4;
+}
+.btn{
+    margin-left: 10px;
+    letter-spacing:0.7px ;
+    border-radius: 8px;
+    background-color:#edf2f4;
+    border:2px solid black;
+}
+.title{
+    font-weight: 800;
+}
+.num{
+    font-weight: 800;
+    font-size: 50px;
+}
